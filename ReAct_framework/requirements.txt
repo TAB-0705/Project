@@ -1,0 +1,9 @@
+# Pure-Python packages; should install on 3.14. If any wheel issue, use a
+# 3.12 venv. langchain-ollama is only needed if you switch LLM_PROVIDER.
+langchain
+langchain-community
+langchain-google-genai
+langchain-ollama
+wikipedia
+python-dotenv
+
