@@ -1,0 +1,16 @@
+# Keep the build context (and image) small and clean.
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.dockerignore
+Dockerfile
+README.md
+.env
+*.md
+.pytest_cache
+.mypy_cache
