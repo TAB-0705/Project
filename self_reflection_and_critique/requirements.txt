@@ -1,0 +1,5 @@
+streamlit
+google-genai
+openai            # used for the xAI / Grok reviewer (OpenAI-compatible API)
+python-dotenv
+# ollama          # uncomment only if any role's provider is "ollama"
