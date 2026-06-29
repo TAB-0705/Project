@@ -1,0 +1,11 @@
+streamlit>=1.33
+pymupdf>=1.23
+opencv-python-headless>=4.8
+numpy>=1.24
+reportlab>=4.0          # only needed to (re)generate the sample invoice
+pytesseract>=0.3.10     # OCR: needs the Tesseract program installed too
+
+# --- LLM extraction (LangChain + Google Gemini, free tier) ---
+langchain>=0.3
+langchain-google-genai>=2.0
+pydantic>=2.6
