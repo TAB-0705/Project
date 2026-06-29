@@ -1,0 +1,4 @@
+# Use a Python 3.11 or 3.12 venv — torch (pulled by ultralytics) has no
+# wheel for Python 3.14 yet.
+ultralytics
+opencv-python
