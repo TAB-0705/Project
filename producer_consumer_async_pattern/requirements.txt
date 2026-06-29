@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic==2.13.4
+azure-servicebus
+python-dotenv
