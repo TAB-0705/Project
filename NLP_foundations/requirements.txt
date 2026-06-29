@@ -1,0 +1,5 @@
+# Install torch FIRST and separately on local machines (see README).
+# On Google Colab, torch is already present — just install the other three.
+torch
+transformers
+datasets
